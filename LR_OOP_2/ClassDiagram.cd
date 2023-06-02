@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ABC_Bus" Collapsed="true">
+    <Position X="12.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgACAAgAAAAAAIAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>header.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ABC_Car" Collapsed="true">
+    <Position X="4.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAIACQ=</HashCode>
+      <FileName>header.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyVan" Collapsed="true">
+    <Position X="3" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAEAAAAAAAAAAEAAAQAAAAAAAIAAA=</HashCode>
+      <FileName>header.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FriendCar" Collapsed="true">
+    <Position X="6" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAACAEAAAAAAAAIAAIAAA=</HashCode>
+      <FileName>header.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bus" Collapsed="true">
+    <Position X="14" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAEAAAAAAAIAAEAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>header.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusWithBonnet" Collapsed="true">
+    <Position X="16.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAEAAAAAQAAAAAIAAA=</HashCode>
+      <FileName>header.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusWithRoof" Collapsed="true">
+    <Position X="8.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAUAAAAAAAAAAEAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>header.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusWithRoofAndBonnet" Collapsed="true">
+    <Position X="11.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAEAAAAAAAEAAAAAAAAAAAIACA=</HashCode>
+      <FileName>header.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
